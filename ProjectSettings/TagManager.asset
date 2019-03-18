@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Wall
+  - Bullet
+  - Alien
+  - Shield
+  - AlienBullet
   layers:
   - Default
   - TransparentFX
@@ -17,10 +21,10 @@ TagManager:
   - PostProcessing
   - SpaceShip
   - Wall
-  - 
-  - 
-  - 
-  - 
+  - Bullet
+  - Alien
+  - Shield
+  - AlienBullet
   - 
   - 
   - 
